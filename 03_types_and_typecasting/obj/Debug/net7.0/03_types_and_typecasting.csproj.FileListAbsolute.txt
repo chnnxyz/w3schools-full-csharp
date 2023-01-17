@@ -1,0 +1,15 @@
+/Users/sruizdeaguirre/w3schools-full-csharp/03_types_and_typecasting/obj/Debug/net7.0/03_types_and_typecasting.csproj.AssemblyReference.cache
+/Users/sruizdeaguirre/w3schools-full-csharp/03_types_and_typecasting/obj/Debug/net7.0/03_types_and_typecasting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sruizdeaguirre/w3schools-full-csharp/03_types_and_typecasting/obj/Debug/net7.0/03_types_and_typecasting.AssemblyInfoInputs.cache
+/Users/sruizdeaguirre/w3schools-full-csharp/03_types_and_typecasting/obj/Debug/net7.0/03_types_and_typecasting.AssemblyInfo.cs
+/Users/sruizdeaguirre/w3schools-full-csharp/03_types_and_typecasting/obj/Debug/net7.0/03_types_and_typecasting.csproj.CoreCompileInputs.cache
+/Users/sruizdeaguirre/w3schools-full-csharp/03_types_and_typecasting/bin/Debug/net7.0/03_types_and_typecasting
+/Users/sruizdeaguirre/w3schools-full-csharp/03_types_and_typecasting/bin/Debug/net7.0/03_types_and_typecasting.deps.json
+/Users/sruizdeaguirre/w3schools-full-csharp/03_types_and_typecasting/bin/Debug/net7.0/03_types_and_typecasting.runtimeconfig.json
+/Users/sruizdeaguirre/w3schools-full-csharp/03_types_and_typecasting/bin/Debug/net7.0/03_types_and_typecasting.dll
+/Users/sruizdeaguirre/w3schools-full-csharp/03_types_and_typecasting/bin/Debug/net7.0/03_types_and_typecasting.pdb
+/Users/sruizdeaguirre/w3schools-full-csharp/03_types_and_typecasting/obj/Debug/net7.0/03_types_and_typecasting.dll
+/Users/sruizdeaguirre/w3schools-full-csharp/03_types_and_typecasting/obj/Debug/net7.0/refint/03_types_and_typecasting.dll
+/Users/sruizdeaguirre/w3schools-full-csharp/03_types_and_typecasting/obj/Debug/net7.0/03_types_and_typecasting.pdb
+/Users/sruizdeaguirre/w3schools-full-csharp/03_types_and_typecasting/obj/Debug/net7.0/03_types_and_typecasting.genruntimeconfig.cache
+/Users/sruizdeaguirre/w3schools-full-csharp/03_types_and_typecasting/obj/Debug/net7.0/ref/03_types_and_typecasting.dll
