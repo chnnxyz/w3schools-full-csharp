@@ -60,6 +60,5 @@ namespace OopBasics
             Console.Write("It goes ");
             myPrius.Honk("beeeeeeep");
         }
-
     }
 }
